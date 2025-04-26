@@ -2,6 +2,14 @@
 
 ###
 
+<h2 align="center">UN  POCO  SOBRE MI</h2>
+
+###
+
+<p align="left">Mi nombre es Rodrigo Mejía, pero mi pseudónimo de programador y mi firma personal es MadeInRodri.<br><br>Soy un (actual) estudiante y futuro ingeniero en Ciencias de la Computación en la universidad Don Bosco, me encanta la pogramación, sobre todo el área de Backend y todo lo relacionado con el manejo e interpretación de datos.<br><br>Me encanta todo lo relacionado con las tecnologías, la programación y el conocimiento en general, soy un fan de la matemática, la música, el arte y la literatura, me considero una persona con habilidades para liderar y sobre todo alguien disciplinado y autodidacta, me adapto a trabajar en cualquier proyecto y cumplir cualquier rol que se me asigne.<br><br>¡Será un gusto trabajar con/para usted!</p>
+
+###
+
 <div align="center">
   <img height="300" src="https://res.cloudinary.com/diogirqun/image/upload/v1745689738/73_sin_t%C3%ADtulo_20221110201731_b929ba.png"  />
 </div>
@@ -23,6 +31,10 @@
 
 ###
 
+<h2 align="center">T E C N O L O G Í A S</h2>
+
+###
+
 <div align="center">
   <a href="https://www.youtube.com/@madeinrodri8912" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
@@ -34,10 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h2 align="center">T E C N O L O G Í A S</h2>
 
 ###
 
