@@ -65,6 +65,6 @@
 
 ###
 
-<p align="left">Mi nombre es Rodrigo Mejía, pero mi pseudónimo de programador y mi firma personal es MadeInRodri.<br><br>Soy un (actual) estudiante y futuro ingeniero en Ciencias de la Computación en la universidad Don Bosco, me encanta la pogramación, sobre todo el área de Backend y todo lo relacionado con el manejo e interpretación de datos.<br><br>Me encanta todo lo relacionado con las tecnologías, la programación y el conocimiento en general, soy un fan de la matemática, la música, el arte y la literatura, me considero una persona con habilidades para liderar y sobre todo alguien disciplinado y autodidacta, me adapto a trabajar en cualquier proyecto y cumplir cualquier rol que se me asigne.<br><br>¡Será un gusto trabajar con/para usted!</p>
+<p align="left">Mi nombre es Rodrigo Mejía, pero mi pseudónimo de programador y mi firma personal es MadeInRodri.<br><br>Soy un (actual) estudiante y futuro ingeniero en Ciencias de la Computación en la universidad Don Bosco, me encanta la programación, sobre todo el área de Backend y todo lo relacionado con el manejo e interpretación de datos.<br><br>Me encanta todo lo relacionado con las tecnologías, la programación y el conocimiento en general, soy un fan de la matemática, la música, el arte y la literatura, me considero una persona con habilidades para liderar y sobre todo alguien disciplinado y autodidacta, me adapto a trabajar en cualquier proyecto y cumplir cualquier rol que se me asigne.<br><br>¡Será un gusto trabajar con/para usted!</p>
 
 ###
